@@ -52,8 +52,11 @@ Class Balancing: Downsampled spam and non-spam reviews to 50-50.
 The project tested various machine learning models:
 
 Logistic Regression (SGD)
+
 Support Vector Machine (SVM)
+
 Random Forest
+
 Voting Classifier (Ensemble approach)
 
 Best Model: Voting Classifier
@@ -63,13 +66,19 @@ Precision/Recall: Balanced across spam and non-spam classes.
 **Key Results**
 
 Model	Precision	Recall	Accuracy
+
 Logistic Regression (SGD)	0.82	0.81	82%
+
 Support Vector Machine (SVM)	0.83	0.81	82%
+
 Random Forest	0.84	0.83	84%
+
 Voting Classifier (Best Model)	0.84	0.84	84%
 
 **Future Enhancements**
 
 Neural Networks: Experimenting with transformer-based models (BERT, RoBERTa).
+
 Real-Time Processing: Deploying the pipeline for streaming data detection.
+
 Additional Features: Improving feature extraction with topic modeling or more complex embeddings.
