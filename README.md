@@ -1,15 +1,15 @@
 # Detecting-Amazon-SPAM-Reviews-using-Text-Mining-and-NLP
 
-Team Members
-Divyam Rana
-Donghyeon Na
-Pushpraj Singh
-Aaryan Bammi
+Team Members:
+Divyam Rana,
+Donghyeon Na,
+Pushpraj Singh,
+Aaryan Bammi,
 
-**Project Overview**
+**Project Overview**:
 Fake or spam reviews on e-commerce platforms, such as Amazon, impact customer trust and purchase decisions. This project aims to develop a machine learning model to classify Amazon product reviews as spam (1) or non-spam (0), improving credibility and user experience.
 
-**Dataset Overview**
+**Dataset Overview**:
 The dataset consists of 5.5 million Amazon product reviews from the Clothing, Shoes, and Jewelry category. The dataset was processed and downsampled to 450K balanced reviews (50-50 spam/non-spam). 
 
 **The key features include:**
